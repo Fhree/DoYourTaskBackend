@@ -12,4 +12,4 @@ You can find the frontend in this repository: https://github.com/Fhree/DoYourTas
 
 ## DataBase
 
-I did a little database in SQL Server, with a few tables. You can find the script to create it in https://github.com/Fhree/DoYourTaskBackend/tree/master/DYT.infrastructure
+I did a little database in SQL Server, with a few tables. You can find the script to create it in https://github.com/Fhree/DoYourTaskBackend/blob/master/DYT.infrastructure/DoYourTask_createDB_script.sql
